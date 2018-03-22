@@ -10,4 +10,5 @@
 - thermi_testC.csv - *example file for use with popART_traits*
 - thermi_testN.nex - *example file for use with popART_traits*
 - thermi_testN_popART.nex - *example OUTPUT file from popART_traits*
+
 **status_bar**: using seaborn and matplotlib to visualize progress in the lab
